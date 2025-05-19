@@ -1,3 +1,4 @@
+/*
 manual CSV Import Instructions
 -- --------------------------------------------------------------------------------
 -- To import data, Use MySQL Workbench Table Data Import Wizard for each CSV:
@@ -24,3 +25,4 @@ manual CSV Import Instructions
 --       SELECT COUNT(*) FROM bronze.crm_cust_info;
 -- And check for all. 
 -- Optional: Use SHOW WARNINGS; to see if any rows were skipped.
+*/
